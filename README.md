@@ -6,7 +6,7 @@ This repository contains personal Python scripts exploring various concepts in n
 
 * Each file is named after the specific theory or idea it tests.
 * Most scripts are designed for easy verification of number-theoretic properties such as primality, divisibility, and patterns in integers.
-* One script is particularly notable: a Python library implementing functions for my most promising theory, which I have formally proved.
+* One script is particularly notable: a Python library implementing functions for my most promising theory, which I have formally proved. [my python library](https://github.com/ninjamath3/prime-number-theories/blob/main/Libnbq.py)
 
 ## Documentation
 
