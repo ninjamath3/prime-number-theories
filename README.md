@@ -12,6 +12,8 @@ This repository contains personal Python scripts exploring various concepts in n
 
 A complete PDF document is included in this repository, detailing the reasoning and proofs behind the theories explored. This allows anyone to understand the concepts and verify the results independently.
 
+[research document](https://github.com/ninjamath3/prime-number-theories/blob/main/recherche_maths.pdf)
+
 ## Note
 
 This project is primarily personal and educational. The code is hosted here to demonstrate my work in Python and number theory, and to provide a clear, structured overview of my experiments and findings.
